@@ -17,8 +17,11 @@ The altium files used to create the PCBs are also [here](https://github.com/MrBu
 The C code is [here](https://github.com/MrBuggySan/UofC_SolarCar_MPPT/tree/master/src)
 
 [Top view](https://github.com/MrBuggySan/UofC_SolarCar_MPPT/blob/master/TopView.jpg)
+
 [Bottom view](https://github.com/MrBuggySan/UofC_SolarCar_MPPT/blob/master/BottomView.jpg)
+
 [Schematics](https://github.com/MrBuggySan/UofC_SolarCar_MPPT/blob/master/MPPTSchematic.PNG)
+
 [3D View from Altium](https://github.com/MrBuggySan/UofC_SolarCar_MPPT/blob/master/MPPTBoard.PNG)
 
 
