@@ -11,6 +11,9 @@ Features:
 - A new algorithm that takes care of device inefficiencies due to clouds covering the solar cells 
 - 98% maximum efficiency in static conditions 
 - New testing modes (Static Voltage, Dynamic Trace, IV Trace, Open)
+- 5 LEDs showing different status
+- Fuses at the input and output of the device
+- Working [CAN](https://en.wikipedia.org/wiki/CAN_bus) messages 
 
 The altium files used to create the PCBs are also [here](https://github.com/MrBuggySan/UofC_SolarCar_MPPT/tree/master/Altium)
 
