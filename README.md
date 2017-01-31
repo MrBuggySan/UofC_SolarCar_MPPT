@@ -1,4 +1,4 @@
-[banner](https://github.com/MrBuggySan/UofC_SolarCar_MPPT/blob/master/SolarInAction.jpg)
+![alt text](https://github.com/MrBuggySan/UofC_SolarCar_MPPT/blob/master/SolarInAction.jpg)
 
 
 
