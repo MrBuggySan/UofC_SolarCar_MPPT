@@ -12,8 +12,13 @@ Features:
 - 98% maximum efficiency in static conditions 
 - New testing modes (Static Voltage, Dynamic Trace, IV Trace, Open)
 
+The altium files used to create the PCBs are also [here](https://github.com/MrBuggySan/UofC_SolarCar_MPPT/tree/master/Altium)
 
-Top view and bottom view of the MPPT:
-![alt text](https://github.com/MrBuggySan/UofC_SolarCar_MPPT/blob/master/TopView.jpg)![alt text](https://github.com/MrBuggySan/UofC_SolarCar_MPPT/blob/master/BottomView.jpg)
+The C code is [here](https://github.com/MrBuggySan/UofC_SolarCar_MPPT/tree/master/src)
+
+[Top view](https://github.com/MrBuggySan/UofC_SolarCar_MPPT/blob/master/TopView.jpg)
+[Bottom view](https://github.com/MrBuggySan/UofC_SolarCar_MPPT/blob/master/BottomView.jpg)
+[Schematics](https://github.com/MrBuggySan/UofC_SolarCar_MPPT/blob/master/MPPTSchematic.PNG)
+[3D View from Altium](https://github.com/MrBuggySan/UofC_SolarCar_MPPT/blob/master/MPPTBoard.PNG)
 
 
